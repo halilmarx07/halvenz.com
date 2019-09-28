@@ -1,16 +1,7 @@
 # Free Bootstrap One-Page Portfolio Template
 
-### Preview
+### Logo Preview
 [![Demo - Free Bootstrap One-Page Portfolio Template](https://halvenz.com/assets/halivenzlogo.png)](https://halvenz.com/)
-
-### Features
-
-* Free one-page template
-* Built with Bootstrap
-* 100% mobile-friendly
-* Case study and Testimonial sliders
-* Animated counter-up statistics section
-* PSD files included
 
 
 ### Credits
@@ -23,14 +14,17 @@
 
  * Vijay Verma [@realvjy](https://dribbble.com/realvjy)
 
+
 ### Developed by
 
  * Akash Bhadange [@designerdada](https://dribbble.com/designerdada)
+
 
 ### Links
  * Blog Post - http://designerdada.com/free-bootstrap-one-page-portfolio-template/
  * Demo - http://www.designerdada.com/designerdada/dd-repository/One-Page-Portfolio-Template/index.html
  * Download - https://github.com/designerdada/One-Page-Portfolio-Template/archive/master.zip
+
 
 ### License
 MIT License 2017 | All creative rights by [@realvjy](https://github.com/realvjy)
